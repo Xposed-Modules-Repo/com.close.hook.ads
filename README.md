@@ -48,6 +48,8 @@ AdClose能够处理应用内包含以下在内的多种SDK类型：
 - Google Ads
 - Pinduoduo Ads
 - Appic Ads
+-  Inmobi Ads
+- TradPlus Ads
 - AdScope
 - BJXingu Ads
 - Ali BaiChuan Ads
@@ -56,7 +58,7 @@ AdClose能够处理应用内包含以下在内的多种SDK类型：
 - Mintegral Ads
 - ADSuyiSdk Ads
 - XinwuPaijin Ads
-- XiaoChuang Ads-ZuiYou
+- XiaoChuang Ads -ZuiYou
 - ByteDance (Pangolin) Ads
 - ByteDance (Pangolin) GroMore
 - FaceBook Ads
