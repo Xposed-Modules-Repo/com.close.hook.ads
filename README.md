@@ -46,6 +46,7 @@ AdClose能够处理应用内包含以下在内的多种SDK类型：
 - Applovin Sdk
 - Unity3d Ads
 - Google Ads
+- Google FireBase Crashlytics Sdk
 - Pinduoduo Ads
 - Appic Ads
 -  Inmobi Ads
